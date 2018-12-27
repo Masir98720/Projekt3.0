@@ -113,5 +113,8 @@
   <ItemGroup>
     <None Include="Resources\1f44e-1f3fc.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\resistor-color-chart.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
